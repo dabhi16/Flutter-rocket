@@ -30,4 +30,4 @@ Concepts learned through this project:
 * [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
 ## Screenshots
-(https://github.com/dabhi16/Flutter-rocket/blob/main/screenshots/screenshot_main.png)
+![Screenshot](https://github.com/dabhi16/Flutter-rocket/blob/main/screenshots/screenshot_main.png?raw=true)
